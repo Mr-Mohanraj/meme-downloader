@@ -1,2 +1,2 @@
 # meme-downloader
- now only for one website
+ now only for two website
